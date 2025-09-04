@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/SachinGautam1913/SachinGautam1913/blob/main/githubbg.png)
+![MasterHead](https://github.com/SachinGautam1913/SachinGautam1913/blob/main/githubkibbg.png)
 
 <h1 align="center">Hi 👋, I'm Sachin Gautam</h1>
 <h3 align="center">From backend logic to mobile magic – I build it all.</h3>
